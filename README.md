@@ -1,1 +1,3 @@
 # lojaAlex
+
+Novo texto
